@@ -1,0 +1,30 @@
+500 daily income
+1000 joining bonus(fixed for everyone)
+
+0 - 1000
+1 - 1500
+2 - 2000
+
+y = mx + b
+
+where  y= final salary predict,output/result
+x= days worked,input
+m = 500/day ,rate of change
+b =1000 bonus ,starting point x =0
+ 
+y = 500x + 1000
+
+x = 4 days
+y = 500 *4 + 1000
+y = 3000
+
+----------------
+vectors
+height=170cm ,weight =65kg
+[170,65]
+
+low sd = close
+high sd = far
+
+class A
+60,62,61,59,60

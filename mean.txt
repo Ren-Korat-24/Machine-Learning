@@ -1,0 +1,36 @@
+#Before the median sort the data
+
+q1 = score =10,20,30
+
+mean = 10+20+30/3 = 20
+median = 20
+mode =  all values are unique,no mode
+
+q2 = score= 50,70,70,90,45,76,99,88
+
+mean = 50+70+70+90+45+76+99+88/8 =73.5
+median = (70+76)/2 = 73.0
+mode = 70
+
+-----------
+actual value y_true =what really happend
+predicted value y_pred =  what our model thinks will happen
+
+data :[ 25,27,30,28,32,29,3000]
+outliers = 3000
+
+-----------
+percentage
+60 run,100 balls
+60:100 ratio
+60% strike rate
+
+
+accuracy =(Corrected predictions/ total predictions)
+precision =(True predictives/ total predictive positives)
+accuracy =(True positives/ total actual positives)
+p= (part\whole) *100
+-----------
+% ratio
+a:b or a/b
+ratio = part / whole
