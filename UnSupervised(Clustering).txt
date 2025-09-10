@@ -1,0 +1,13 @@
+#Steps OF K-Means Clustering
+
+Step - 1 : Tell  the mahcine
+
+Step - 2 : Drop 3 Randome points 
+
+Step - 3 : Group Leader 
+
+step - 4 : Center's 
+
+step - 5 : Repeat step 2,3,4 until center's not change
+
+#Elbow Method
